@@ -1,4 +1,5 @@
 
 
 console.log('git linked project');
-console.log('firs git');
+console.log('first git');
+console.log('Addition to new branch');
