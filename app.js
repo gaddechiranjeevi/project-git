@@ -1,1 +1,4 @@
-console.log('new git project');
+
+
+console.log('git linked project');
+console.log('first git');
